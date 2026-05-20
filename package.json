@@ -1,0 +1,11 @@
+{
+  "name": "estelar",
+  "private": true,
+  "version": "0.0.0",
+  "workspaces": [
+    "events_landing",
+    "events_admin",
+    "events_tickets",
+    "events_access"
+  ]
+}
